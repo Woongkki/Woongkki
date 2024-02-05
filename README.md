@@ -17,9 +17,7 @@
 
 
  <h3>🙋‍♂️About Me</h3>
- My name is Kim kiwoong, 24years old.</br>
- I have a very bright and friendly personality.</br>
- I also like to analyze and solve development problems.<br>
+ My name is Kim kiwoong.</br>
  Nice to meet you!😁
  <br><br>
  
